@@ -17,7 +17,7 @@ Key aspects of a web API include:
 A REST API (Representational State Transfer API) is a type of web API that follows the principles of REST architectural style. REST is not a standard, but rather a set of guidelines and best practices for creating scalable and maintainable web services
 
 
-#### what is GraphQL ?
+#### What is GraphQL ?
 GraphQL is a query language and server-side runtime for application programming interfaces (APIs) that gives API clients exactly the data they requested. As an alternative to REST, GraphQL allows developers to make requests to fetch data from multiple data sources with a single API call. GraphQL is designed to make APIs fast, flexible, and developer-friendly.
 
 
